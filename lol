@@ -1,4 +1,1 @@
-hey
-aye
-yo
-killed
+ninna
